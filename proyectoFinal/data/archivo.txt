@@ -1,0 +1,11 @@
+saul	23	12312412	aqp	s	1	100	Pago en efectivo
+saul	23	12312321	sa	wqeq	2	230	Pago en efectivo
+	23	23131233	sada	qweqewq	1	200	Pago en efectivo
+Saul	18	12344567		colegio	2	260	Pago en efectivo
+david	23	12314112	Arequipa	sasasa	2	280	Pago en efectivo
+saul	23	12313222	sadas	sadasds	1	200	Pago en efectivo
+sadsads	23	21313232	sadsadsa	as	1	400	Pago en efectivo
+qwrqwrq	23	13123212	saddsadas	asdas	2	370	Pago en efectivo
+saul	42	12321313	sdasd	asdad	1	300	Pago en efectivo
+saulsada	34	23132223	aqp	qweqwe	3	460	Pago en efectivo
+gato	32	21313222	gatulex	reto	2	120	visa
